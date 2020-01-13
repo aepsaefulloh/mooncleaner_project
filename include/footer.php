@@ -22,7 +22,12 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                     <p>Call Us</p>
 
-                    <span>+00 12345 698</span>
+                    <span><a href="tel:+6285724099197" style="color: #3b3f47; 
+                    font-size: 13px;
+                    line-height: 28px;
+                    padding-right: 10px;
+                    margin-right: 10px;
+                    display: inline;">+62 85724099197</a></span>
 
                 </div>
 
@@ -38,7 +43,13 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                     <p>Contact Us</p>
 
-                    <span>contact@email.com</span>
+                    <span> <a href="mailto:mooncleaners@gmail.com?subject=Hallo Mooncleaners&body=Tulis Komentar Untuk Kami" 
+                    style="color: #3b3f47; 
+                    font-size: 13px;
+                    line-height: 28px;
+                    padding-right: 10px;
+                    margin-right: 10px;
+                    display: inline;">mooncleaners@gmail.com</a></span>
 
                 </div>
 
@@ -54,7 +65,12 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                     <p>Visit Us</p>
 
-                    <span>Miami 23894, US</span>
+                    <span> <a href="https://goo.gl/maps/Yv3q1hfg2HtTmPLh9" style="color: #3b3f47; 
+                    font-size: 13px;
+                    line-height: 28px;
+                    padding-right: 10px;
+                    margin-right: 10px;
+                    display: inline;">Jl. Potlot Dalam 1, Duren Tiga, JakSel</a></span>
 
                 </div>
 

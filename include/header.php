@@ -25,7 +25,7 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                 <!--logo -->
             <a href="<?php ROOT_URL ?>" class="navbar-brand" id="logo">
-                <img src="<?php echo ROOT_URL ?>/assets/images/luna-logo-w.png" alt="logo">
+                <img src="<?php echo ROOT_URL ?>/assets/images/mooncleaners_logo.png" alt="logo">
             </a>
 
             </div>

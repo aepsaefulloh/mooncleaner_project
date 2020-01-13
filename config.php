@@ -2,9 +2,9 @@
 define('DB_HOST', 'localhost');
 define('DB_UID', 'root');
 define('DB_PWD', '');
-define('DB_DATABASE', 'mooncleaner_db');
-define('ROOT_PATH', 'C:/laragon/www/project/mooncleaner');
-define('ROOT_URL', 'http://localhost/project/mooncleaner');
+define('DB_DATABASE', 'mooncleaners_db');
+define('ROOT_PATH', 'C:/laragon/www/project/mooncleaners');
+define('ROOT_URL', 'http://localhost/project/mooncleaners');
 
 // define( "CACHE_URL", ROOT_URL."/cache" );
 

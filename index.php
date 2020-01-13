@@ -181,7 +181,7 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                 <div class="col-md-6 text-center luna-imagewrap1  wow fadeInRight" data-wow-delay="0.60s"
                     style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInRight;">
 
-                    <img src="<?php echo ROOT_URL ?>/assets/images/luna-about2.png" alt="about-image" class="width-100">
+                    <img src="<?php echo ROOT_URL ?>/assets/images/hero.png" alt="about-image" class="width-100">
 
                 </div>
                 <!--end col md 6 -->
@@ -209,7 +209,7 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                     <div class="luna-headings-light">
 
-                        <h2>Features</h2>
+                        <h2>Our Service</h2>
 
                         <h3>App Main Features</h3>
 
@@ -230,11 +230,10 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                     <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.25s"
                         style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
 
-                        <i class="fa fa-apple gradient"></i>
-                        <i class="fa fa-android gradient"></i>
-                        <h3>Compatibility</h3>
-                        <p>iOS, Android sed quia magni dolores eos qui ratione ipsam voluptatem quia voluptas sit
-                            asperna netsum lorisum eos qui ratione sequi nesciunt.</p>
+                        <!-- <i class="fa fa-apple gradient"></i>
+                        <i class="fa fa-android gradient"></i> -->
+                        <h3>Fast Cleaning</h3>
+                        <p>membersihkan bagian upper dan sole.</p>
 
                     </div>
 
@@ -247,10 +246,10 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                     <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.50s"
                         style="visibility: visible; animation-delay: 0.50s; animation-name: fadeInRight;">
 
-                        <i class="fa fa-battery-3 gradient"></i>
-                        <h3>Battery Saver</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis autem velis
-                            repreherit eos qui ratione sequi nesciunt.</p>
+                        <!-- <i class="fa fa-battery-3 gradient"></i> -->
+                        <h3>Deep Clean</h3>
+                        <p>Deep Cleaning Treatment untuk segala jenis sepatu, semua bagian sepatu, dan untuk seluruh
+                            material sepatu, termasuk penghilangan noda tertentu.</p>
 
                     </div>
 
@@ -263,10 +262,10 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                     <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.75s"
                         style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInRight;">
 
-                        <i class="fa fa-wifi gradient"></i>
-                        <h3>Conectivity</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt. Neque et quis autem
-                            velis reprehenit eos qui ratione sequi nesciunt.</p>
+                        <!-- <i class="fa fa-wifi gradient"></i> -->
+                        <h3>Unyellowing</h3>
+                        <p>Sepatu bisa menjadi kuning (yellowing) dikarenakan teroksidasi. Ingin menghilangkan yellowing
+                            pada sepatu anda? Metode unyellowing bisa mengembalikannya menjadi putih kembali.</p>
 
                     </div>
 
@@ -285,10 +284,10 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                     <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.25s"
                         style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
 
-                        <i class="fa fa-bell-o gradient"></i>
-                        <h3>Notifications</h3>
-                        <p>iOS, Android sed quia magni dolores eos qui ratione ipsam voluptatem quia voluptas sit
-                            asperna netsum lorisum eos qui ratione sequi nesciunt.</p>
+                        <!-- <i class="fa fa-bell-o gradient"></i> -->
+                        <h3>Woman Shoes Treatment</h3>
+                        <p>Treatment untuk sepatu wanita, seperti flat shoes, wedges, dan high heels. Just for you,
+                            ladies!</p>
 
                     </div>
 
@@ -301,10 +300,9 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                     <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.50s"
                         style="visibility: visible; animation-delay: 0.50s; animation-name: fadeInRight;">
 
-                        <i class="fa fa-rocket gradient"></i>
-                        <h3>Launch Speed</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis autem velis
-                            repreherit eos qui ratione sequi nesciunt.</p>
+                        <!-- <i class="fa fa-rocket gradient"></i> -->
+                        <h3>Reglue & Repair</h3>
+                        <p>Sepatu kamu solenya terlepas ? Kamu bisa memilih treatment ini. Lem ulang</p>
 
                     </div>
 
@@ -317,10 +315,10 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
                     <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.75s"
                         style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInRight;">
 
-                        <i class="fa fa-rss gradient"></i>
-                        <h3>Sensors</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt. Neque et quis autem
-                            velis reprehenit eos qui ratione sequi nesciunt.</p>
+                        <!-- <i class="fa fa-rss gradient"></i> -->
+                        <h3>Repaint</h3>
+                        <p>Warna sepatu anda pudar? Bosan dan ingin ganti warna sepatu? Repaint solusinya! Repaint
+                            adalah pewarnaan ulang pada sepatu menggunakan bahan pewarna khusus.</p>
 
                     </div>
 
@@ -337,21 +335,21 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
     <!--section section dark -->
 
     <!--section section white-->
-    <section class="section-white">
+    <!-- <section class="section-white"> -->
 
         <!--begin container -->
-        <div class="container">
+        <!-- <div class="container"> -->
 
             <!--begin row -->
-            <div class="row text-center">
+            <!-- <div class="row text-center"> -->
 
                 <!--begin col md 12 -->
-                <div class="col-md-12 text center">
+                <!-- <div class="col-md-12 text center">
 
                     <div class="luna-headings-dark">
 
-                        <img src="<?php echo ROOT_URL ?>/assets/images/luna-about3.png" alt="about-image" class="luna-about-image wow fadeInUp"
-                            data-wow-delay="0.75s"
+                        <img src="<?php echo ROOT_URL ?>/assets/images/luna-about3.png" alt="about-image"
+                            class="luna-about-image wow fadeInUp" data-wow-delay="0.75s"
                             style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInUp;">
 
                         <h2>Download</h2>
@@ -360,26 +358,28 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                         <div class="luna-download margin-top-40">
 
-                            <a href="#"><img src="<?php echo ROOT_URL ?>/assets/images/google-badge.png" alt="google"></a>
+                            <a href="#"><img src="<?php echo ROOT_URL ?>/assets/images/google-badge.png"
+                                    alt="google"></a>
 
                             <a href="#"><img src="<?php echo ROOT_URL ?>/assets/images/apple-badge.png" alt="apple"></a>
 
-                            <a href="#"><img src="<?php echo ROOT_URL ?>/assets/images/windows-badge.png" alt="windows"></a>
+                            <a href="#"><img src="<?php echo ROOT_URL ?>/assets/images/windows-badge.png"
+                                    alt="windows"></a>
 
                         </div>
 
                     </div>
 
-                </div>
+                </div> -->
                 <!--end col md 12 -->
 
-            </div>
+            <!-- </div> -->
             <!--end row -->
 
-        </div>
+        <!-- </div> -->
         <!--end container -->
 
-    </section>
+    <!-- </section> -->
     <!--end section white -->
 
     <!--begin section-image-->
@@ -816,8 +816,8 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
 
                     <div class="luna-imagewrap2 text-center">
 
-                        <img src="<?php echo ROOT_URL ?>/assets/images/luna-about4.png" alt="about-image" class="width-100 wow fadeInUp"
-                            data-wow-delay="0.85s"
+                        <img src="<?php echo ROOT_URL ?>/assets/images/luna-about4.png" alt="about-image"
+                            class="width-100 wow fadeInUp" data-wow-delay="0.85s"
                             style="visibility: visible; animation-delay: 0.85s; animation-name: fadeInUp;">
 
                     </div>
@@ -1208,7 +1208,7 @@ require_once ROOT_PATH.'/lib/mysqlDao.php';
     </section>
     <!--end section contact-->
 
-  <?php
+    <?php
     require_once 'include/footer.php';
   ?>
 
